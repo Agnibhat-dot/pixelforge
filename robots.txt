@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://pixelforge.tools/sitemap.xml
+Sitemap: https://pixelforge.tools/landing-sitemap.xml
+Sitemap: https://pixelforge.tools/blog-sitemap.xml

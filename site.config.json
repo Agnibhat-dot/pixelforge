@@ -1,0 +1,23 @@
+{
+  "siteName": "PixelForge Image Tools",
+  "shortName": "PixelForge",
+  "tagline": "Private browser image tools for faster websites and sharper content.",
+  "siteUrl": "https://pixelforge.tools",
+  "supportEmail": "hello@pixelforge.tools",
+  "companyName": "PixelForge Labs",
+  "locale": "en_US",
+  "themeColor": "#2563eb",
+  "backgroundColor": "#f7f8fb",
+  "twitterHandle": "@pixelforgetools",
+  "analytics": {
+    "ga4MeasurementId": "",
+    "microsoftClarityId": "",
+    "cloudflareAnalyticsToken": "",
+    "consentMode": true
+  },
+  "author": {
+    "name": "PixelForge Editorial Team",
+    "slug": "pixelforge-editorial-team",
+    "bio": "Image optimization, web performance, and privacy-first tooling guides."
+  }
+}
