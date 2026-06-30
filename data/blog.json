@@ -1,0 +1,48 @@
+[
+  {
+    "slug": "browser-image-compression",
+    "title": "How Browser Image Compression Works",
+    "cat": "Optimization",
+    "tags": [
+      "compression",
+      "performance"
+    ],
+    "excerpt": "Learn how quality, dimensions, and browser encoders affect image file size.",
+    "body": [
+      "Browser image compression uses built-in encoders to redraw pixels and export a smaller file.",
+      "The best results usually come from resizing oversized images before lowering quality.",
+      "For web publishing, WebP often gives an excellent balance of detail and size."
+    ]
+  },
+  {
+    "slug": "image-seo-checklist",
+    "title": "Image SEO Checklist for Faster Pages",
+    "cat": "SEO",
+    "tags": [
+      "seo",
+      "core-web-vitals"
+    ],
+    "excerpt": "A practical checklist for naming, sizing, compressing, and publishing images.",
+    "body": [
+      "Use descriptive filenames and alt text that match the image context.",
+      "Serve images at the dimensions your layout actually needs.",
+      "Compress hero images carefully because they often affect LCP."
+    ]
+  },
+  {
+    "slug": "webp-vs-jpg-png",
+    "title": "WebP vs JPG vs PNG: Which Format Should You Use?",
+    "cat": "Formats",
+    "tags": [
+      "webp",
+      "jpg",
+      "png"
+    ],
+    "excerpt": "Choose the right format for photos, graphics, transparency, and compatibility.",
+    "body": [
+      "JPG is still useful for broad compatibility and photographic images.",
+      "PNG is best for lossless graphics and transparency.",
+      "WebP is a strong default for modern websites when browser support fits your audience."
+    ]
+  }
+]

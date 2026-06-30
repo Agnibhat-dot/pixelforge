@@ -1,0 +1,593 @@
+[
+  {
+    "category": "Compression",
+    "name": "Compress Image",
+    "slug": "compress-image",
+    "toolSlug": "image-compressor",
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress JPG",
+    "slug": "compress-jpg",
+    "toolSlug": "image-compressor",
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress PNG",
+    "slug": "compress-png",
+    "toolSlug": "image-compressor",
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress WebP",
+    "slug": "compress-webp",
+    "toolSlug": "image-compressor",
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image to 10KB",
+    "slug": "compress-image-to-10kb",
+    "toolSlug": "image-compressor",
+    "targetKb": 10,
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image to 20KB",
+    "slug": "compress-image-to-20kb",
+    "toolSlug": "image-compressor",
+    "targetKb": 20,
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image to 30KB",
+    "slug": "compress-image-to-30kb",
+    "toolSlug": "image-compressor",
+    "targetKb": 30,
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image to 40KB",
+    "slug": "compress-image-to-40kb",
+    "toolSlug": "image-compressor",
+    "targetKb": 40,
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image to 50KB",
+    "slug": "compress-image-to-50kb",
+    "toolSlug": "image-compressor",
+    "targetKb": 50,
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image to 100KB",
+    "slug": "compress-image-to-100kb",
+    "toolSlug": "image-compressor",
+    "targetKb": 100,
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image to 150KB",
+    "slug": "compress-image-to-150kb",
+    "toolSlug": "image-compressor",
+    "targetKb": 150,
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image to 200KB",
+    "slug": "compress-image-to-200kb",
+    "toolSlug": "image-compressor",
+    "targetKb": 200,
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image to 300KB",
+    "slug": "compress-image-to-300kb",
+    "toolSlug": "image-compressor",
+    "targetKb": 300,
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image to 500KB",
+    "slug": "compress-image-to-500kb",
+    "toolSlug": "image-compressor",
+    "targetKb": 500,
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image to 1MB",
+    "slug": "compress-image-to-1mb",
+    "toolSlug": "image-compressor",
+    "targetKb": 1024,
+    "intent": ""
+  },
+  {
+    "category": "Compression",
+    "name": "Compress Image Without Losing Quality",
+    "slug": "compress-image-without-losing-quality",
+    "toolSlug": "image-compressor",
+    "intent": "quality-first compression"
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image",
+    "slug": "resize-image",
+    "toolSlug": "resize-image-width-height",
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize JPG",
+    "slug": "resize-jpg",
+    "toolSlug": "resize-image-width-height",
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize PNG",
+    "slug": "resize-png",
+    "toolSlug": "resize-image-width-height",
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image by Pixels",
+    "slug": "resize-image-by-pixels",
+    "toolSlug": "resize-image-width-height",
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image by Percentage",
+    "slug": "resize-image-by-percentage",
+    "toolSlug": "resize-image-percentage",
+    "percent": 50,
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image for WhatsApp",
+    "slug": "resize-image-for-whatsapp",
+    "toolSlug": "resize-image-percentage",
+    "percent": 70,
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image for Instagram",
+    "slug": "resize-image-for-instagram",
+    "toolSlug": "instagram-post-size",
+    "width": 1080,
+    "height": 1080,
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image for Facebook",
+    "slug": "resize-image-for-facebook",
+    "toolSlug": "facebook-cover-maker",
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image for YouTube",
+    "slug": "resize-image-for-youtube",
+    "toolSlug": "youtube-thumbnail-resizer",
+    "width": 1280,
+    "height": 720,
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image for LinkedIn",
+    "slug": "resize-image-for-linkedin",
+    "toolSlug": "linkedin-banner-creator",
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image for Twitter/X",
+    "slug": "resize-image-for-twitter-x",
+    "toolSlug": "twitter-x-header-maker",
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image for Pinterest",
+    "slug": "resize-image-for-pinterest",
+    "toolSlug": "pinterest-pin-resizer",
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image for Passport",
+    "slug": "resize-image-for-passport",
+    "toolSlug": "passport-photo-maker",
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image to 200x200",
+    "slug": "resize-image-to-200x200",
+    "toolSlug": "resize-image-width-height",
+    "width": 200,
+    "height": 200,
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image to 300x300",
+    "slug": "resize-image-to-300x300",
+    "toolSlug": "resize-image-width-height",
+    "width": 300,
+    "height": 300,
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image to 512x512",
+    "slug": "resize-image-to-512x512",
+    "toolSlug": "resize-image-width-height",
+    "width": 512,
+    "height": 512,
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image to 1080x1080",
+    "slug": "resize-image-to-1080x1080",
+    "toolSlug": "resize-image-width-height",
+    "width": 1080,
+    "height": 1080,
+    "intent": ""
+  },
+  {
+    "category": "Resize",
+    "name": "Resize Image to 1920x1080",
+    "slug": "resize-image-to-1920x1080",
+    "toolSlug": "resize-image-width-height",
+    "width": 1920,
+    "height": 1080,
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "JPG to PNG",
+    "slug": "jpg-to-png",
+    "toolSlug": "jpg-to-png",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "PNG to JPG",
+    "slug": "png-to-jpg",
+    "toolSlug": "png-to-jpg",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "JPG to WebP",
+    "slug": "jpg-to-webp",
+    "toolSlug": "jpg-to-webp",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "WebP to JPG",
+    "slug": "webp-to-jpg",
+    "toolSlug": "webp-to-jpg",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "PNG to WebP",
+    "slug": "png-to-webp",
+    "toolSlug": "png-to-webp",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "WebP to PNG",
+    "slug": "webp-to-png",
+    "toolSlug": "webp-to-png",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "HEIC to JPG",
+    "slug": "heic-to-jpg",
+    "toolSlug": "heic-to-jpg",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "HEIC to PNG",
+    "slug": "heic-to-png",
+    "toolSlug": "heic-to-png",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "SVG to PNG",
+    "slug": "svg-to-png",
+    "toolSlug": "svg-to-png",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "SVG to JPG",
+    "slug": "svg-to-jpg",
+    "toolSlug": "svg-to-jpg",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "AVIF Converter",
+    "slug": "avif-converter",
+    "toolSlug": "avif-converter",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "Image to PDF",
+    "slug": "image-to-pdf",
+    "toolSlug": "image-to-pdf",
+    "intent": ""
+  },
+  {
+    "category": "Convert",
+    "name": "PDF to Image",
+    "slug": "pdf-to-image",
+    "toolSlug": "pdf-to-images",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Crop Image",
+    "slug": "crop-image",
+    "toolSlug": "crop-image",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Rotate Image",
+    "slug": "rotate-image",
+    "toolSlug": "rotate-flip-image",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Flip Image",
+    "slug": "flip-image",
+    "toolSlug": "rotate-flip-image",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Watermark Image",
+    "slug": "watermark-image",
+    "toolSlug": "watermark-image",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Add Text to Image",
+    "slug": "add-text-to-image",
+    "toolSlug": "add-text-to-image",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Background Remover",
+    "slug": "background-remover",
+    "toolSlug": "background-remover",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Remove Background Color",
+    "slug": "remove-background-color",
+    "toolSlug": "remove-background-color",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Transparent Background",
+    "slug": "transparent-background",
+    "toolSlug": "add-transparent-background",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Blur Background",
+    "slug": "blur-background",
+    "toolSlug": "blur-background",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Thumbnail Creator",
+    "slug": "thumbnail-creator",
+    "toolSlug": "thumbnail-creator",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Passport Photo Maker",
+    "slug": "passport-photo-maker",
+    "toolSlug": "passport-photo-maker",
+    "intent": ""
+  },
+  {
+    "category": "Editing",
+    "name": "Collage Maker",
+    "slug": "collage-maker",
+    "toolSlug": "photo-collage-maker",
+    "intent": ""
+  },
+  {
+    "category": "Optimization",
+    "name": "Image DPI Converter",
+    "slug": "image-dpi-converter",
+    "toolSlug": "convert-image-dpi",
+    "intent": ""
+  },
+  {
+    "category": "Optimization",
+    "name": "Change Image Resolution",
+    "slug": "change-image-resolution",
+    "toolSlug": "change-image-resolution",
+    "intent": ""
+  },
+  {
+    "category": "Optimization",
+    "name": "Image Sharpen",
+    "slug": "image-sharpen",
+    "toolSlug": "image-sharpen",
+    "intent": ""
+  },
+  {
+    "category": "Optimization",
+    "name": "Image Denoise",
+    "slug": "image-denoise",
+    "toolSlug": "image-denoise",
+    "intent": ""
+  },
+  {
+    "category": "Optimization",
+    "name": "Brightness Editor",
+    "slug": "brightness-editor",
+    "toolSlug": "brightness-contrast-saturation-editor",
+    "intent": ""
+  },
+  {
+    "category": "Optimization",
+    "name": "Contrast Editor",
+    "slug": "contrast-editor",
+    "toolSlug": "brightness-contrast-saturation-editor",
+    "intent": ""
+  },
+  {
+    "category": "Optimization",
+    "name": "Color Picker",
+    "slug": "color-picker",
+    "toolSlug": "color-picker",
+    "intent": ""
+  },
+  {
+    "category": "Optimization",
+    "name": "Image Metadata Viewer",
+    "slug": "image-metadata-viewer",
+    "toolSlug": "image-metadata-viewer",
+    "intent": ""
+  },
+  {
+    "category": "Optimization",
+    "name": "Remove EXIF Metadata",
+    "slug": "remove-exif-metadata",
+    "toolSlug": "remove-exif-metadata",
+    "intent": ""
+  },
+  {
+    "category": "Batch Tools",
+    "name": "Batch Image Converter",
+    "slug": "batch-image-converter",
+    "toolSlug": "batch-image-converter",
+    "intent": ""
+  },
+  {
+    "category": "Batch Tools",
+    "name": "Batch Compressor",
+    "slug": "batch-compressor",
+    "toolSlug": "batch-image-compressor",
+    "intent": ""
+  },
+  {
+    "category": "Batch Tools",
+    "name": "Batch Resizer",
+    "slug": "batch-resizer",
+    "toolSlug": "batch-image-resizer",
+    "intent": ""
+  },
+  {
+    "category": "Batch Tools",
+    "name": "ZIP Download",
+    "slug": "zip-download",
+    "toolSlug": "zip-download-batch-processing",
+    "intent": ""
+  },
+  {
+    "slug": "image-color-picker",
+    "name": "Image Color Picker",
+    "category": "Optimization",
+    "toolSlug": "color-picker"
+  },
+  {
+    "slug": "ocr-image-to-text",
+    "name": "OCR Image to Text",
+    "category": "Optimization",
+    "toolSlug": "ocr-image-to-text"
+  },
+  {
+    "slug": "remove-background",
+    "name": "Remove Background",
+    "category": "Editing",
+    "toolSlug": "background-remover"
+  },
+  {
+    "slug": "compression",
+    "name": "Compression Image Tools",
+    "category": "Compression",
+    "toolSlug": "image-compressor",
+    "desc": "Browse compression workflows and compress images locally with a real upload tool on the page."
+  },
+  {
+    "slug": "resize",
+    "name": "Resize Image Tools",
+    "category": "Resize",
+    "toolSlug": "resize-image-width-height",
+    "desc": "Browse resize workflows and resize images locally with a real upload tool on the page."
+  },
+  {
+    "slug": "convert",
+    "name": "Image Converter Tools",
+    "category": "Convert",
+    "toolSlug": "jpg-to-webp",
+    "desc": "Browse image conversion workflows and convert images locally with a real upload tool on the page."
+  },
+  {
+    "slug": "editing",
+    "name": "Image Editing Tools",
+    "category": "Editing",
+    "toolSlug": "crop-image",
+    "desc": "Browse browser-local editing workflows with live preview and private processing."
+  },
+  {
+    "slug": "optimization",
+    "name": "Image Optimization Tools",
+    "category": "Optimization",
+    "toolSlug": "brightness-contrast-saturation-editor",
+    "desc": "Browse image optimization workflows with local controls and live preview."
+  },
+  {
+    "slug": "batch-tools",
+    "name": "Batch Image Tools",
+    "category": "Batch Tools",
+    "toolSlug": "batch-image-converter",
+    "desc": "Browse batch workflows and process multiple images locally with ZIP download support."
+  }
+]
