@@ -1,0 +1,8 @@
+﻿/* Lightweight, reduced-motion-safe animations */
+@keyframes pf-fade-up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes pf-pulse{0%,100%{opacity:1}50%{opacity:.72}}
+.hero .badge,.hero h1,.hero p,.panel,.tool-card,.workspace,.side{animation:pf-fade-up .32s ease both}
+.tool-card:hover,.btn:hover,.chip:hover{transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease;transform:translateY(-1px)}
+.progress span{animation:pf-pulse 1.4s ease-in-out infinite paused}
+.progress span[style*="width: 0"]{animation:none}
+@media (prefers-reduced-motion: reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}

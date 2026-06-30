@@ -1,0 +1,29 @@
+﻿/* Responsive layout refinements for PixelForge */
+@media (max-width: 960px){
+  .layout{grid-template-columns:1fr}
+  .side{position:static}
+  .hero-in,.container{padding-inline:1rem}
+  .hero h1{font-size:clamp(2rem,10vw,3.4rem)}
+  .stage{min-height:220px}
+  .controls{grid-template-columns:1fr}
+}
+@media (max-width: 680px){
+  .topin{position:relative;flex-wrap:wrap}
+  .brand span{max-width:12rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .nav{width:100%}
+  .nav.open{display:grid;grid-template-columns:1fr;gap:.4rem}
+  .hero-proof,.grid{grid-template-columns:1fr}
+  .actions{display:grid;grid-template-columns:1fr;width:100%}
+  .btn,.chip{width:100%}
+  .tool-card{min-height:auto}
+  .drop{min-height:190px}
+  .foot{grid-template-columns:1fr}
+  .cookie{left:.75rem;right:.75rem;bottom:.75rem}
+}
+@media (min-width: 681px) and (max-width: 1040px){
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .controls{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (min-width: 1041px){
+  .side{align-self:start}
+}
